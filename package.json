@@ -1,5 +1,6 @@
 {
   "name": "location-generator",
+  "homepage": "http://vishalgupta3006.github.io/location-generator",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
