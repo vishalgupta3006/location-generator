@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/location-generator/static/css/main.ee4d5352.css",
+    "main.js": "/location-generator/static/js/main.70ed552d.js",
+    "static/js/787.549c9fe4.chunk.js": "/location-generator/static/js/787.549c9fe4.chunk.js",
+    "index.html": "/location-generator/index.html",
+    "main.ee4d5352.css.map": "/location-generator/static/css/main.ee4d5352.css.map",
+    "main.70ed552d.js.map": "/location-generator/static/js/main.70ed552d.js.map",
+    "787.549c9fe4.chunk.js.map": "/location-generator/static/js/787.549c9fe4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee4d5352.css",
+    "static/js/main.70ed552d.js"
+  ]
+}
